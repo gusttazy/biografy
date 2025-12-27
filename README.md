@@ -1,4 +1,4 @@
-# 📚 Biografy Site  
+# 📚 Biografy 
 
 Este é um projeto desenvolvido para a disciplina **Projeto de Web I** da faculdade. O objetivo é criar um site responsivo utilizando **HTML**, **CSS** e **JavaScript**. O site apresenta histórias inspiradoras de personalidades notáveis, explorando suas trajetórias de vida e impacto na sociedade.  
 
